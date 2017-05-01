@@ -1,1 +1,2 @@
-# data-science-club-its
+# Data Science Study Club ITS
+
